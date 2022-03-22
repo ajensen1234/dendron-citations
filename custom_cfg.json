@@ -1,0 +1,9 @@
+{
+    "bib_filename": "../My-Vault/bib.bib",
+    "vault_loc": "vault-storage/",
+    "note_prefix": "refs.",
+    "make_tag_notes": true,
+    "verbose": true,
+    "kebab_case_tag_names": true,
+    "template_path": "template.mustache"
+}
